@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221811156582",
+    "project_id": "thrissur-4e736",
+    "storage_bucket": "thrissur-4e736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221811156582:android:e5a7d2c9335f13b0ac6fa7",
+        "android_client_info": {
+          "package_name": "com.example.thrissur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221811156582-odmmi2mqg0k63dp00bejf40eu2e05h0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRHcYVC66FYif6GWUo_68n7qRsmiBW0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221811156582-odmmi2mqg0k63dp00bejf40eu2e05h0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
